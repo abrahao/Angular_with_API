@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Macbook Pro",
+      "preco": "12000.00"
+    },
+    {
+      "id": 2,
+      "nome": "TV LG",
+      "preco": "5000.00"
+    },
+    {
+      "nome": "LG K10",
+      "preco": "999.90",
+      "id": 3
+    }
+  ]
+}
